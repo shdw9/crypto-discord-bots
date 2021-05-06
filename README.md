@@ -9,3 +9,5 @@ pip install asyncio
 
 Edit run.py with the Yahoo Finance stock symbol (https://finance.yahoo.com/) \
 Edit the last line with the bot token, add to your server
+
+*would recommend running on a dedicated server*
