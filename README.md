@@ -1,5 +1,7 @@
 # crypto-discord-bots
 A simple iscord bot that changes it's status every 2 seconds with the current price of any stock (can be used for crypto)
+coincap.py - uses coincap.io api \
+yahoofinance.py - uses yahoofinance api 
 
 ## Instructions
 
