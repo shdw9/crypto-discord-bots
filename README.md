@@ -7,7 +7,8 @@ pip install yahoo-fin \
 pip install discord \
 pip install asyncio
 
-Edit run.py with the Yahoo Finance stock symbol (https://finance.yahoo.com/) \
+Edit yahoofinance.py with the Yahoo Finance stock symbol (https://finance.yahoo.com/) \
+You can use coincap.py to use Coincap.io api \
 Edit the last line with the bot token, add to your server
 
 *would recommend running on a dedicated server*
